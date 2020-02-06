@@ -2,6 +2,7 @@
 #### “Implementación y análisis de estructuras lineales”
 
 José Vinicio De León   1072619
+
 Javier Andrés Morales  1210219
 
 Una empresa dedicada al telemercadeo necesita una herramienta que le
