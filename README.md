@@ -10,7 +10,7 @@ sistema web utilizando MVC para poder administrar la información de los
 clientes.
 
 **Requerimientos funcionales**
-Los requerimientos funcionales son los siguientes:
+-Los requerimientos funcionales son los siguientes:
 - Carga de datos:
 o La aplicación debe permitir el ingreso de clientes con la siguiente
 información mínima:
